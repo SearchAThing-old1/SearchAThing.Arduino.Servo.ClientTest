@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAThing.Arduino.Servo.ClientTest", "SearchAThing.Arduino.Servo.ClientTest\SearchAThing.Arduino.Servo.ClientTest.csproj", "{86792130-9B19-4738-BBA6-41AA68333F5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAThing.Net.SRUDP.TCPBridge.ServoClient", "..\..\SearchAThing.Net\SearchAThing.Net.Apps\SearchAThing.Net.SRUDPTCPBridge.ServoClient\SearchAThing.Net.SRUDP.TCPBridge.ServoClient.csproj", "{32F9401E-24A2-43EF-861C-64172AD024B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAThing.Net.SRUDP.TCPBridge.ServoClient", "..\SearchAThing.Net\SearchAThing.Net.Apps\SearchAThing.Net.SRUDP.TCPBridge.ServoClient\SearchAThing.Net.SRUDP.TCPBridge.ServoClient.csproj", "{32F9401E-24A2-43EF-861C-64172AD024B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

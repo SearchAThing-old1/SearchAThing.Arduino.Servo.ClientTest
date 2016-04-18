@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SearchAThing.Net\SearchAThing.Net.Apps\SearchAThing.Net.SRUDPTCPBridge.ServoClient\SearchAThing.Net.SRUDP.TCPBridge.ServoClient.csproj">
+    <ProjectReference Include="..\..\SearchAThing.Net\SearchAThing.Net.Apps\SearchAThing.Net.SRUDP.TCPBridge.ServoClient\SearchAThing.Net.SRUDP.TCPBridge.ServoClient.csproj">
       <Project>{32f9401e-24a2-43ef-861c-64172ad024b2}</Project>
       <Name>SearchAThing.Net.SRUDP.TCPBridge.ServoClient</Name>
     </ProjectReference>
